@@ -1,12 +1,12 @@
-- 👋 Hi, ich bin Max! 
-- 👀 Ich interessiere mich für die verschiedensten Dinge:
+👋 Hi, ich bin Max! 
+👀 Ich interessiere mich für die verschiedensten Dinge:
   - Rad fahren
   - Coden
   - Zocken
   - Freunde treffen
   - etc.
-- 🌱 Aktuell arbeite ich mich in Java Spring ein.
-- 💞️ Ich würde mich am liebsten an Forschungsprojekten oder anderen coolen Projekten beteiligen. ✌🏻
+🌱 Aktuell arbeite ich mich in Java Spring ein.
+💞️ Ich würde mich am liebsten an Forschungsprojekten oder anderen coolen Projekten beteiligen. ✌🏻
 
 
 <!---
