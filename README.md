@@ -5,7 +5,9 @@
   - Zocken
   - Freunde treffen
   - etc.
-🌱 Aktuell arbeite ich mich in Java Spring ein.
+
+
+🌱 Aktuell arbeite ich mich in Java Spring ein.  
 💞️ Ich würde mich am liebsten an Forschungsprojekten oder anderen coolen Projekten beteiligen. ✌🏻
 
 
